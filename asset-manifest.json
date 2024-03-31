@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/asm03.react.js/static/css/main.ec50be4b.css",
+    "main.js": "/asm03.react.js/static/js/main.f6e2cdf5.js",
+    "static/media/product_2.png": "/asm03.react.js/static/media/product_2.1bc52f8922d488cead68.png",
+    "static/media/product_3.png": "/asm03.react.js/static/media/product_3.48eda5293a6f605e73f7.png",
+    "static/media/product_4.png": "/asm03.react.js/static/media/product_4.6d83c6007d5109b357a8.png",
+    "static/media/product_1.png": "/asm03.react.js/static/media/product_1.b24c110a233df54143c8.png",
+    "static/media/product_5.png": "/asm03.react.js/static/media/product_5.b963def7555b7544d220.png",
+    "static/media/banner1.jpg": "/asm03.react.js/static/media/banner1.4a22881c941f7b645fa8.jpg",
+    "index.html": "/asm03.react.js/index.html",
+    "main.ec50be4b.css.map": "/asm03.react.js/static/css/main.ec50be4b.css.map",
+    "main.f6e2cdf5.js.map": "/asm03.react.js/static/js/main.f6e2cdf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec50be4b.css",
+    "static/js/main.f6e2cdf5.js"
+  ]
+}
